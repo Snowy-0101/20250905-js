@@ -1,0 +1,21 @@
+----------【HTML】----------
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
+
+Form Validation
+
+Text
+
+Radio
+
+Radio1  Radio2  Radio3
+
+Checkbox
+
+Checkbox1  Checkbox2  Checkbox3  Checkbox4  Checkbox5
+
+Select
+
+TextArea
+
+Submit
